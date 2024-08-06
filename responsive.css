@@ -1,0 +1,9 @@
+@media(max-width :320px)
+{
+    .man-img img{
+    
+    margin-top: 50px;
+    height: 70%;
+    width: 250px !important;
+    }
+}
